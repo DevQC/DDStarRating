@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/DevQC/DDStarRating.git", :tag => "0.0.1" }
 
 
-  s.source_files  = "DDStarRating/*.{h,m}"
+  s.source_files  = "*.{h,m}"
 
 
 end
